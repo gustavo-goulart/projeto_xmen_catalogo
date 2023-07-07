@@ -33,7 +33,7 @@ body::before {
 .selecao-de-personagens .lista-de-personagens {
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: 25px;
   justify-content: center;
 }
 
@@ -41,8 +41,8 @@ body::before {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 585px;
-  gap: 25px;
+  max-width: 589px;
+  gap: 20px;
 }
 
 .selecao-de-personagens .personagens .titulo {
@@ -69,8 +69,8 @@ body::before {
 }
 
 .personagem-selecionado .personagem-grande {
-  width: 430px;
-  height: 430px;
+  width: 350px;
+  height: 350px;
 }
 
 .personagem-selecionado .nome-personagem {
